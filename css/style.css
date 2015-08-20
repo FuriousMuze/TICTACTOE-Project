@@ -1,0 +1,41 @@
+.nav {
+	margin: 0 auto;	
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	display: inline;
+	color: #f8fc16;
+	font-size: 90px;
+
+}
+
+p {
+	text-align: center;
+	display: block;
+	color: #f8fc16;	
+	font-size: 20px;	
+}
+
+body {
+	background-image: url('http://i.ytimg.com/vi/RN28hBoWINE/maxresdefault.jpg');
+	background-color: black;
+}
+
+.box {
+	line-height: 120px;
+	vertical-align: center;
+	float: left;
+	height: 120px;
+	width: 28%;
+	border: 3px black;
+	background-color: rgba(255, 255, 255, 0.80);
+	margin: 10px;
+}
+
+#board {
+	width: 420px;
+	margin: 0 auto;
+	padding-top: 2%;
+}
